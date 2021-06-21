@@ -11,6 +11,7 @@ void main(List<String> args) {
   ));
 }
 
+///
 class SplashScreen extends StatefulWidget {
   final Color backgroundColor = Colors.white;
   final TextStyle styleTextUnderTheLoader = TextStyle(
